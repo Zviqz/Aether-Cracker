@@ -13,6 +13,7 @@ A simple Python tool to crack Gmail passwords using a drag-and-drop wordlist.
 - Python 3.6 or higher
 - PyQt5
 - smtplib (included in Python's standard library)
+- Download a worldlist. Ex: rockyou.txt
 
 ## Installation
 
