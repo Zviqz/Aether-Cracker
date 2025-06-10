@@ -27,12 +27,10 @@ python AetherGmailCracker.py
 
 Drag and drop your wordlist file into the window. Enter the target Gmail address when prompted:
 
-```sh
 Enter the target Gmail address: target@gmail.com
 
 The tool will start trying passwords from the wordlist and print the progress:
 
-```sh
 Trying password1...
 Trying password2...
 Password found: correctpassword
